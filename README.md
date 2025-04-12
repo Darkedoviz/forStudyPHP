@@ -64,3 +64,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## REFS
+
+## LW1
+
+[Объект типа request](https://laravel.com/docs/8.x/requests)
+[дока по PHP](https://www.php.net/manual/ru/language.oop5.php)
+[про DTO](https://habr.com/ru/articles/721122/)
+[плейлист про Laravel](https://youtube.com/playlist?list=PLd2_Os8Cj3t8pnG4ubQemoqnTwf0VFEtU&si=LgLCK1XQeOX6kfdi)
+[преза про основы Laravel](не вставляет норм ссылку)
+[про ответ сервера клиенту](https://developer.mozilla.org/en-US/docs/Web/API/Response)
+[про респонсы из Laravel доки](https://laravel.com/docs/12.x/responses#json-responses)
+
